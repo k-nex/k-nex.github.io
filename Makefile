@@ -2,9 +2,7 @@ SCRIBBLE=scribble
 FLAGS=--htmls
 
 CONTENTDIR=content/
-
 INDEXFILE=index.scrbl
-
 INDEXPATH=$(addprefix $(CONTENTDIR), $(INDEXFILE))
 
 .PHONY: clean
