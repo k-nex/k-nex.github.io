@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">k-nexus: k-nexus</title>
+ <link rel="self" href="http://k-nex.github.io/feeds/all.atom.xml" />
+ <link href="http://k-nex.github.io/index.html" />
+ <id>urn:http-k-nex-github-io:-index-html</id>
+ <updated>2018-11-17T05:00:00Z</updated>
+ <entry>
+  <title type="text">Post Anxiety</title>
+  <link rel="alternate" href="http://k-nex.github.io/2018/11/post-anxiety.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-k-nex-github-io:-2018-11-post-anxiety-html</id>
+  <published>2018-11-17T05:00:00Z</published>
+  <updated>2018-11-17T05:00:00Z</updated>
+  <author>
+   <name>k-nex</name></author>
+  <content type="html">
+&lt;p&gt;I&amp;rsquo;ve never been able to maintain a blog.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to write technical posts because they&amp;rsquo;re impersonal. An author doesn&amp;rsquo;t make themself vulnerable by explaining a concept, or sharing an insight. But when I write about topics other than math and programming, I fear judgement. A critical inner voice tells me I&amp;rsquo;m being pretentious. That I&amp;rsquo;m putting on a show.&lt;/p&gt;
+
+&lt;p&gt;Approaching this rationally, it is not my job to worry about what others think of me. Further, my views are external to me, and evolving; harsh judgements of a view should not be taken personally, but should be welcomed as an opportunity to update beliefs.&lt;/p&gt;</content></entry></feed>
